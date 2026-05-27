@@ -52,3 +52,4 @@ class CalcA {
         } while (choice != 3);
     }
 }
+
